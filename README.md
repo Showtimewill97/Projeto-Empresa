@@ -12,7 +12,7 @@ As seguintes ferramentas foram usadas na construção deste projeto:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) ![](https://img.shields.io/badge/--E34F26.svg?style=flat&logoColor=FAFAFF&logo=html5)
 - [CSS](https://www.w3schools.com/cssref/) ![](https://img.shields.io/badge/--1572b6.svg?style=flat&logoColor=FAFAFF&logo=css3)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ![](https://img.shields.io/badge/--F7DF1E.svg?style=flat&logoColor=0D0D0D&logo=javascript)
-- [Google Maps](https://www.google.com.br/maps)
+- [Google Maps](https://www.google.com.br/maps) 🗺️ 
 
 ---
 
